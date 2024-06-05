@@ -1,0 +1,34 @@
+1
+Waiting Room
+This room is in the 1st floor of the West Wing where the West Hallway ends in the North. There are tables to the right side of the door.
+------------
+west 2
+___________
+2
+End of Road
+You are at the end of a road at the top of a small hill. There is a fork in the road. There lies a haze to the West. You can see a small building in the valley to the east. There is a cold path that leads south and a familiar one that leads to the east.
+------------
+east 1
+south 4
+west 3
+___________
+3
+Fiend's Room
+This is my room. It has a lot of rap refences and punk rock posters. Theres is a Black door at the North side of the room.
+-----------
+north 5
+south 1
+___________
+4
+Throne Of Ice
+This room is frozen solid. It has a huge throne made of solid ice. There is a hallway that leads to a black door at the top of the room. More particularly it is at the North.
+-----------
+north 5
+south 2
+___________
+5
+Final Boss Room
+This room is the office of Dr.Barakat. If you do not submit your code in on time she breathes fire. The are no exits. There will be no miracles. Just "Surrender".
+-----------
+surrender 1
+___________

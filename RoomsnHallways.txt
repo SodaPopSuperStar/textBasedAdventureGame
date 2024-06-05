@@ -1,0 +1,477 @@
+Boiler Room
+1
+The walls of this room are shades of grey as a result of burning coal.  
+->
+east 2
+south 4
+----
+Boiler Room [Continued]
+2
+The walls of this room are shades of grey as a result of burning coal. looks like a teleporter south of here
+->
+west 1
+south 3
+----
+Teleporter
+3
+I can go three ways [Floor 1(east), Floor 2(south), Floor 3(west), north to exit]  
+->
+east 20
+south 37
+west 53
+north 2
+----
+West Hall (Basement)
+4
+This is the West Hall, I should keep going down the hall  
+->
+south 5
+----
+West Hall (Basement)[Continued]
+5
+This is the West Hall, I should keep going down the hall  
+->
+north 4
+south 6
+----
+West Hall (Basement)[Continued]
+6
+There is a room to the west, more hall to the south
+->
+north 5
+south 7
+west 8
+----
+West Hall (Basement)[Continued]
+7
+the main hall is to the east, I should check it out. 
+->
+north 6
+east 10
+----
+Main Hall (Basement)
+10
+This is the main Hall, it is pretty big 
+->
+east 11
+west 7
+----
+Main Hall (Basement) [Continue]
+11
+there is a room to the south and more hall to the east
+->
+south 12
+east 13
+west 10
+----
+Intensive Care Unit (Coma patients) 
+12
+This room has no windows. Three heavy stretchers lie in the middle. The cover of the bed is eaten and moldy. Looks kind of empty.  
+->
+north 11
+----
+Main Hall (Basement) [Continue]
+13
+There is a room to the south and another hall to the north. 
+->
+north 15
+south 14
+west 11
+----
+Mentally Unstable
+14
+The door of this room is made of metal bars padded with some soft material. The room seems empty and dark, and the echo of footsteps can be heard while walking on the concrete floor.
+->
+north 13
+----
+East Hall (Basement)
+15
+there is a room east of me, maybe I should check it out. or maybe keep moving forward...  
+->
+north 17
+south 13
+east 16
+----
+Padded Rooms
+16
+This room looks like a cubicle with nothing in it but padded with soft materials in all the 4 walls and the floor. 
+->
+west 15
+----
+East Hall (Basement) [Continued]
+17
+there is more hallway, maybe I should keep going. 
+->
+north 18
+south 15
+----
+East Hall (basement) [Continue]
+18
+There is a room west of me, I should check it out 
+->
+west 19
+south 17
+----
+Padded Rooms
+19
+This room looks like a cubicle with nothing in it but padded with soft materials in all the 4 walls and the floor.  
+->
+east 18
+----
+ER Waiting
+20
+This room is in the 1st floor of the West Wing where the West Hallway ends in the North. There are tables to the right side of the door. On the table lies syringes, magazines, and coffee cups.To the west is a locked weary wooden double door hanging on rusted hinges leading outside the building. There is still some chalky blue paint left clinging on to the wood. To the south is another wooden door which leads to the West Hallway. 
+->
+south 21
+west 3
+----
+West Hall
+21
+west hall of the first floor  
+->
+north 20
+south 24
+east 22
+west 23
+----
+ER
+22
+On the east, against the wall is a heart monitoring system. There lies a bed in front of the monitor.  
+->
+west 21
+----
+Storage room 
+23
+Just Storage  
+->
+east 21
+----
+West Hall [Continued]
+24
+part of west hall  
+->
+north 21
+west 25
+east 26
+----
+Laboratory
+25
+On the west wall is a counter on which test-tube racks and microscopes are placed. There are other unrecognizable equipment lying on the counter.    
+->
+east 24
+----
+Main Hall
+26
+This is the main Hall, it is pretty big   
+->
+north 27
+south 29
+east 28
+west 24
+----
+Storage
+27
+Looks like there is nothing here   
+->
+south 26
+----
+Main Hall [Continue]
+28
+This is the main Hall, it is pretty big   
+->
+south 29
+east 32
+----
+Main Hall [Continue]
+29
+This is the main Hall, it is pretty big   
+->
+north 28 
+east 30
+west 26 
+----
+Main Hall [Continue]
+30
+This is the main Hall, it is pretty big   
+->
+north 32 
+east 31
+west 29
+----
+Gift Shop
+31
+Three walls are covered with glass shelves leaving little space for a desk which looks like a counter. Some of the glass panes of the shelf are broken. Looks like someone has looted this place.  
+->
+west 30
+----
+East Hall
+32
+This is the west hall, seems spooky 
+->
+north 34
+south 30
+east 33
+west 28
+----
+Maintenance Room
+33
+This room looks very congested and stuffy. To the left of the door hanging on the wall are brooms, dustpan, and mop.  boxes are stacked up against the walls. A dusty vintage vacuum cleaner lies in a corner. 
+->
+west 32
+----
+East Hall [Continue]
+34
+This is the west hall, seems spooky 
+->
+north 35
+south 32
+----
+East Hall [Continue]
+35
+This is the west hall, seems spooky 
+->
+north 36
+south 34
+----
+Cafe
+36
+This large hall looks like a cafeteria with long counters. I can see lights hanging from the ceiling above, some of them look like they will fall anytime soon. There are broken tables surrounded by benches below the ceiling lights. The surface of the tables are covered with a thick layer of dust. 
+->
+south 35
+----
+Vending Area
+37
+There are two vending machines inside a cell with an opening in the front through which I can pass through with an outstretched arm.   
+->
+north 3
+south 38
+----
+Main Hall (2nd Floor)
+38
+This is the main hall...I should keep walking  
+->
+north 37
+east 47
+west 39
+----
+Main Hall (2nd Floor) [Continue]
+39
+There is a room south of me... maybe I should check it out.  
+->
+south 40
+east 38
+west 41
+----
+Women’s Bathroom 
+40
+Light inside the bathroom is flickering. Can hear a groaning sound from the farthest stall. Water is dripping somewhere.
+->
+north 39
+----
+Main Hall (2nd Floor) [Continue]
+41
+There is a room south of me... there is also another hall north of me as well...  
+->
+north 43
+south 42
+east 39
+----
+Preemie Room
+42
+This room has bunch of small beds with clear plastic cover over it forming a dome shape. The white bed coverings have turned yellow and have a lot of tiny holes in them.     
+->
+north 41
+----
+West Hall (2nd Floor)
+43
+there is a room to my east... there is also more hall to walk in.   
+->
+north 45
+south 41
+east 44
+----
+Patient room
+44
+This is one of the patient rooms on the left side of the West Wing in the 2nd floor. A bed lies in the middle of the room. 
+->
+west 43
+----
+West Hall (2nd Floor) [Continue]
+45
+There is a room to my west.. maybe i should check it out, there is no more hall, I should go back after.   
+->
+south 43
+west 46
+----
+Patient Room
+46
+This is another patient room   
+->
+east 45
+----
+Main Hall (2nd Floor) [Continue]
+47
+There is a room south of me... I should check it out.   
+->
+north 49
+south 48
+west 38
+----
+Nursery
+48
+A bunch of cribs lie all over the place. Broken toys and pacifier lie on the ground.  
+->
+north 47
+----
+East Hall (2nd Floor)
+49
+This is the west hall, seems spooky 
+->
+north 51
+south 47
+west 50
+----
+Delivery Room
+50
+You are now in the first delivery room to the right of the East Hallway. You can hear moaning voice from the farthest corner of the room. 
+->
+east 49
+----
+East Hall (2nd floor) [Continue]
+51
+there is a room north of me.. maybe I should check it out 
+->
+north 52
+south 49
+----
+Chapel
+52
+You are in the chapel... what is that??
+->
+south 51
+north 69
+----
+Electrical Room
+53
+huh... makes sense why the teleporter is here.   
+->
+east 3
+south 54
+----
+East Hall (3rd Floor)
+54
+This is the East hall for this floor...I should keep walking  
+->
+north 53
+west 55
+----
+East Hall (3rd Floor) [Continue]
+55
+there is a room north of me... I should check it out  
+->
+north 56
+south 57
+east 54
+----
+X-ray room
+56
+This room has a small close out in the north-east side. The door of this room is very broad and thick. 
+->
+south 55
+----
+Main Hall (2nd Floor) [Continue]
+57
+There is a room south of me... there is also another hall north of me as well...  
+->
+north 55
+south 58
+west 59
+----
+Record room
+58
+The room has 5 huge racks with files all covered with a thick layer of dust.      
+->
+north 57
+----
+Main Hall (2nd Floor) [Continue]
+59
+there is a room to my north... there is also more hall to walk in.   
+->
+north 60
+east 57
+west 61
+----
+Vending Area
+60
+In a small cell are two vending machines against the wall. One contains snack and the other contains drinks. 
+->
+south 59
+----
+Main Hall (2nd Floor) [Continue]
+61
+I should keep walking 
+->
+east 59
+west 62
+----
+West Hall (3rd Floor)
+62
+there is a room south of me... there is also more hall way north of me.   
+->
+north 64 
+south 63
+east 61
+----
+Storage Room
+63
+There is nothing in here   
+->
+north 62
+----
+West Hall (3rd Floor) [Continue]
+64
+there is a room west of me... there is more hall too
+->
+north 66
+south 62
+west 65
+----
+Surgery Room
+65
+This room looks very creepy with syringes, scissors, and blood stains that have darkened over time on the concrete floors. 
+->
+east 64
+----
+West Hall (3rd Floor) [Continue]
+66
+There is a room east and west of me   
+->
+east 68
+west 67
+----
+Storage
+67
+You are in the storage room situated in the dead end of the west wing of the fourth floor. This room is on the right side of the hallway. 
+->
+east 66
+----
+Freezer
+68
+You are now in the freezer... there is a teleporter south of me
+->
+west 66
+south 3
+----
+Chapel
+69
+if you defeat the Boss you win.
+->
+north 70
+south 52
+----
+Out Side
+70
+You escaped!!! thanks for playing
+->
+north 0
+----
