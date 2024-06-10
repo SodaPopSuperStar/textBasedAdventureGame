@@ -108,7 +108,7 @@ public class TextGame
 	}
 	
 	/*
-	 * 
+	 *  creates a new player named The joker and returns it
 	 */
 	
 	public Player createNewPlayer()
@@ -121,6 +121,7 @@ public class TextGame
 	 * Method - playGame
 	 * @Param - void
 	 * Return - void
+	 * This method starts the game 
  	 */
 	
 	public void playGame() 
@@ -332,7 +333,7 @@ public class TextGame
 	}
 	
 	/*
-	 * 
+	 * Adds items from a monsters inventory to a players inventory
 	 */
 	
 	public void givePlayerSpoils(Player player, Monster monster)
